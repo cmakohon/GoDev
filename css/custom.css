@@ -1,0 +1,29 @@
+body {
+    padding-bottom: 20px;
+    padding-top: 50px;
+}
+
+.navbar {
+    /*background-color: #4a8fcb;*/
+    /*background-color: #57585c;*/
+    background-color: #ffffff;
+    border: 0px;
+}
+
+
+.btn-primary {
+    background-color: #7BAFD4;
+}
+
+.jumbotron {
+    padding-top: 30px;
+    /*background-color: #eee;*/
+    background-color: #7BAFD4;
+    color: white;
+}
+
+/*#basic-addon3 {*/
+    /*background-color: #4a8fcb;*/
+    /*color: white;*/
+/*}*/
+
